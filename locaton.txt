@@ -1,5 +1,8 @@
 
-let apiKey = "0968290fbce34dd3a4ed5d025f3d82fa";
+// PLEASE REPLACE "your-api-key-here" WITH AN
+// API KEY FROM https://ipgeolocation.io/
+
+let apiKey = "your-api-key-here";
 
 window.oRTCPeerConnection =
   window.oRTCPeerConnection || window.RTCPeerConnection;
